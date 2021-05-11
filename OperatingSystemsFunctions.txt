@@ -5,3 +5,5 @@ Computer management is the process of managing, monitoring and optimizing a comp
 Also availability security and or any base operational requirement. The complexity of the system will depend on each oranization's specific content.
 2. Establish a user interace.  User interace is the point of human-comuter interaction and the communication on a device.  It could aslo be on a webpage or an app. 
 This can include display screens and keyboards or a mouse with the apperance of a desktop.
+3.Execute and provide sservices for application software. this is an interface between the application program and the hardware.  
+This function is all input and output is actually carried out by the OS. the term platform refers to combination of the compupter hardware and opertaing system.
