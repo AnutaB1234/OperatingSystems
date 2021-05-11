@@ -1,0 +1,5 @@
+
+Has 3 main functions:
+1. Manage the computer's resources.
+Computer management is the process of managing, monitoring and optimizing a computer system for preformance.  
+Also availability security and or any base operational requirement. The complexity of the system will depend on each oranization's specific content.
